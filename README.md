@@ -1,23 +1,40 @@
-#   Cookie Clicker (Python Edition)
+# **Cookie Clicker 🍪** - [Python TERMINAL Edition]
 
->Brief Introduction:
+# Brief Introduction
 
-**Hi welcome to Cookie Clicker! This is a popular clicker game mainly made on HTML, Bash, Javascript, CSS and more! This is a cookie clicker game but made in Python! Please comment on this and enjoy!**
+Hi, welcome to Cookie Clicker! This is a intense clicking game mainly built on Javascript and Bash, but we specially made this in Python to take on a hard personal challenge, and also to revive one of the funnest games on the web, to make it better.
+
+# Ideas
+
+We currently have these ideas and are currently trying to implement them:
+
+* Secret Easter eggs
+* Boss battles for additional cookies
+* Adding new upgrades
+* Adding new keys for cookie clicking
+* Name your cookie factory
+* Cookie lottery
+* An ending to the clicker game
+* Redeem Codes, find in ???
+
+If you have any additional ideas, make sure to leave a comment on our post to let us know about it!
 
 # Contributors:
 
-[UltimateCoder](https://replit.com/@UltimateCoder40) (Creater)
+[@hecker40](https://replit.com/@hecker40) (Creator)
 
-[rickysong](https://replit.com/@rickysong) (Idea Creater and Contributor)
+[@HyperHacker](https://replit.com/@HyperHacker) (Major Contributor)
 
-[CodingElf](https://replit.com/@CodingElf66) (Contributor)
+[@rickysong](https://replit.com/@rickysong) (Idea Creator and Major Contributor)
 
-[PhantomPython](https://replit.com/@PhantomPython) (Contributor)
+[@CodingElf66](https://replit.com/@CodingElf66) (Major Contributor)
 
-[SilentFoxy](https://replit.com/@SilentFoxy78) (ot and Contributor)
+[@PhantomPython](https://replit.com/@PhantomPython) (Major Contributor)
 
-**bold**
-*italic**
-# tag
+[@SilentFoxy](https://replit.com/@SilentFoxy78) (Additional Idea Creater and Major Contributor)
 
-> example
+[@dheirya](https://replit.com/@dheiryat) (Promo Code Ideas)
+
+# Notes
+
+> **Enjoy this cookie production, and please give us feedback if you have any comments or suggestions on the game! - Team**
