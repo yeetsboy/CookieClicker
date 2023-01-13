@@ -17,24 +17,6 @@ We currently have these ideas and are currently trying to implement them:
 * An ending to the clicker game
 * Redeem Codes, find in ???
 
-If you have any additional ideas, make sure to leave a comment on our post to let us know about it!
+Use this link to play 
 
-# Contributors:
-
-[@hecker40](https://replit.com/@hecker40) (Creator)
-
-[@HyperHacker](https://replit.com/@HyperHacker) (Major Contributor)
-
-[@rickysong](https://replit.com/@rickysong) (Idea Creator and Major Contributor)
-
-[@CodingElf66](https://replit.com/@CodingElf66) (Major Contributor)
-
-[@PhantomPython](https://replit.com/@PhantomPython) (Major Contributor)
-
-[@SilentFoxy](https://replit.com/@SilentFoxy78) (Additional Idea Creater and Major Contributor)
-
-[@dheirya](https://replit.com/@dheiryat) (Promo Code Ideas)
-
-# Notes
-
-> **Enjoy this cookie production, and please give us feedback if you have any comments or suggestions on the game! - Team**
+https://replit.com/@SrikarBonala1/Cookie-Clicker-20Upgrades-that-make-so-much-cookies?v=1
